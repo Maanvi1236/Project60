@@ -1,0 +1,121 @@
+body {
+    text-align: center;
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 25px;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    font-family: 'Style Script', cursive;
+
+}
+
+h2 {
+    font-size: 25px;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    font-family: 'Style Script', cursive;
+
+}
+
+h3 {
+    font-size: 25px;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    font-family: 'Style Script', cursive;
+
+}
+
+p {
+    font-size: 20px;
+    background-color: #3EECAC;
+    background-image: linear-gradient(19deg, #3EECAC 0%, #EE74E1 100%);
+    font-family: 'Indie Flower', cursive;
+
+}
+
+h4 {
+    font-size: 15px background-color: #FBDA61;
+    background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+    font-family: 'Great Vibes', cursive;
+
+}
+
+h5 {
+    font-size: 20px background-color: #A9C9FF;
+    background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+    font-family: 'Great Vibes', cursive;
+
+}
+
+h6 {
+    font-size: 20px background-color: #FAACA8;
+    background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+    font-family: 'Great Vibes', cursive;
+
+}
+
+h7 {
+    font-size: 20px;
+    background-color: #A9C9FF;
+    background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+    font-family: 'Great Vibes', cursive;
+}
+
+
+h8 {
+    font-size: 15px
+}
+
+.btn-grad {
+    background-image: linear-gradient(to right, #16A085 0%, #F4D03F 51%, #16A085 100%);
+    font-family: 'Monoton',
+        cursive;
+}
+
+img {
+    width: 20%;
+    height: 30%;
+    border: 10px #ff00c6 solid;
+    border-style: double;
+    border-radius: 500px;
+}
+
+.menu {
+    list-style: none;
+    cursor: pointer;
+    z-index: 10;
+    position: fixed;
+    font-family: 'Lobster', cursive;
+
+}
+
+.links {
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    color:blanchedalmond;
+    font-size: 25px;
+    text-align: left;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
+
+#pic {
+    height: 40%;
+    width: 20%;
+}
+a:hover {
+    text-shadow: 5px 5px 5px red;}
+html{
+    scroll-behavior: smooth;
+}
+
+
